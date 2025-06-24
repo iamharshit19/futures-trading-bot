@@ -1,0 +1,14 @@
+
+2025-06-24 18:15:10,661:INFO:Bot initialized with testnet = True
+2025-06-24 18:15:10,900:INFO:USDT Balance: 15000.00000000
+2025-06-24 18:15:11,082:INFO:Market Order Placed: {'orderId': 4690069347, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa4574cbb3ce1d51195f318', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750769110973}
+2025-06-24 18:23:05,604:INFO:Bot initialized with testnet = True
+2025-06-24 18:25:16,115:INFO:Bot initialized with testnet = True
+2025-06-24 18:27:54,632:INFO:Bot initialized with testnet = True
+2025-06-24 18:28:07,688:INFO:USDT Balance: 14999.95796764
+2025-06-24 18:28:28,542:INFO:Market Order Placed: {'orderId': 4690644912, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ9fc438be9085f7831851b7', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '1.000', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750769908365}
+2025-06-24 18:36:19,474:INFO:Bot initialized with testnet = True
+2025-06-24 18:37:46,030:INFO:Bot initialized with testnet = True
+2025-06-24 18:38:06,243:INFO:Bot initialized with testnet = True
+2025-06-24 18:49:01,988:INFO:Bot initialized with testnet = True
+2025-06-24 18:49:07,778:INFO:USDT Balance: 14957.91136733
