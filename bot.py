@@ -10,6 +10,10 @@ from binance.enums import (
     FUTURE_ORDER_TYPE_STOP,        
     TIME_IN_FORCE_GTC              
 )
+from dotenv import load_dotenv
+import os
+
+
 
 
 logging.basicConfig(
@@ -99,9 +103,10 @@ class BasicBot:
             logging.error(f"Limit Order Error: {e.message}")
             return None
 if __name__ == "__main__":
-  
-    API_KEY = "2d22a47ec180fe662f794330efbce6499f0903ad7bd7ae377d560f60e1e523ad"
-    API_SECRET = "2e00ae9877089e73a7a4575e53cbbf4e7ccb148e0576e8db75923ef2d707f5f2"
+    
+    load_dotenv()
+    API_KEY = os.getenv("API_KEY")
+    API_SECRET = os.getenv("API_SECRET")
 
     bot = BasicBot(API_KEY, API_SECRET)
 
